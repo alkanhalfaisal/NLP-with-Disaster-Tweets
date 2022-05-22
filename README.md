@@ -19,6 +19,9 @@ The location the tweet was sent from (may also be blank)
 Final result
 ==
 
+![8c481c70-b7ea-4485-91c7-5fe9ea58aea6](https://user-images.githubusercontent.com/66042572/169716273-08bab2e9-0cfb-4916-9b93-f0b78640a308.png)
+
+
 f1: 0.8009218331910049
 
 precision: 0.8191531225882371
